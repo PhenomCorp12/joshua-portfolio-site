@@ -111,7 +111,7 @@ export default function Hero() {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mb-16">
             <a
-              href="https://github.com/kingjay19"
+              href="https://github.com/PhenomCorp12"
               className="text-gray-400 hover:text-primary-400 transition-colors duration-300"
               aria-label="GitHub"
             >
